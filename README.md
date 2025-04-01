@@ -1,5 +1,4 @@
 <div align="center">
-  <img  height="265" width="900" src="https://github.com///blob/main/Cover.jpg"/>
 </div>
 <br><br>
 <div align="center"> 
