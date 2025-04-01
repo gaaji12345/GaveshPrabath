@@ -35,8 +35,6 @@
 <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-### <a href="https://yasasdaraka.github.io/MyPortfolio/">My Portfolio</a></br>
-
 <div align="center">
 
 
